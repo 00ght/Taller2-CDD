@@ -1,4 +1,3 @@
-Id;Predicción
 7;SÍ
 14;NO
 21;SÍ
